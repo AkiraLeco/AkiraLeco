@@ -35,11 +35,7 @@ Sou estudante de **Ciência da Computação** e apaixonado por tecnologia. Atual
 
 ## 📌 Projetos em Destaque
 
-*(Adicione aqui seus projetos assim que subir para o GitHub)*
-
-* Projeto 1 — descrição curta
-* Projeto 2 — descrição curta
-* Projeto 3 — descrição curta
+* Projeto StudyHub — StudyHub é uma plataforma web para organização de estudos, com bloco de notas avançado, editor de texto rico, salvamento automático, títulos, busca e ferramentas como cronômetro, motivação e muito mais. Ideal para estudantes e quem busca produtividade.
 
 ---
 
@@ -48,7 +44,7 @@ Sou estudante de **Ciência da Computação** e apaixonado por tecnologia. Atual
 
 Caso queira trocar ideias ou colaborar em projetos:
 
-* ✉️ Email: *(adicione aqui se quiser)*
+* ✉️ Email: *Lafnogueira2005 [at] gmail [dot] com*
 * 🔗 LinkedIn: *(adicione se tiver)*
 
 ---
