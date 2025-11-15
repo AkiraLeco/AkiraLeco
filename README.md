@@ -44,7 +44,7 @@ Sou estudante de **Ciência da Computação** e apaixonado por tecnologia. Atual
 
 Caso queira trocar ideias ou colaborar em projetos:
 
-* ✉️ Email: *Lafnogueira2005 [at] gmail [dot] com*
+* ✉️ Email: Lafnogueira2005 [at] gmail [dot] com
 * 🔗 LinkedIn: *(adicione se tiver)*
 
 ---
