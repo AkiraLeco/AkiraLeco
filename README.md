@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Olá, eu sou **Akira**
 
-<!--
-**AkiraLeco/AkiraLeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação** e apaixonado por tecnologia. Atualmente desenvolvo projetos utilizando **HTML, CSS, JavaScript e PHP**, geralmente trabalhando com **XAMPP** para ambiente local. Meu foco é evoluir como desenvolvedor e construir soluções cada vez mais profissionais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+* 🎓 Bacharelando em **Ciência da Computação**
+* 💻 Desenvolvedor iniciante focado em web
+* 🚀 Buscando evoluir constantemente com boas práticas e projetos reais
+* 📚 Sempre aprendendo algo novo
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+**Frontend**
+
+* HTML5
+* CSS3
+* JavaScript
+
+**Backend**
+
+* PHP
+* XAMPP (Apache + MySQL)
+
+**Outros**
+
+* Git & GitHub
+* VS Code
+
+---
+
+## 📌 Projetos em Destaque
+
+*(Adicione aqui seus projetos assim que subir para o GitHub)*
+
+* Projeto 1 — descrição curta
+* Projeto 2 — descrição curta
+* Projeto 3 — descrição curta
+
+---
+
+
+## 📬 Contato
+
+Caso queira trocar ideias ou colaborar em projetos:
+
+* ✉️ Email: *(adicione aqui se quiser)*
+* 🔗 LinkedIn: *(adicione se tiver)*
+
+---
+
+✨ *Obrigado por visitar meu perfil!*
